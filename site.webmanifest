@@ -1,0 +1,21 @@
+{
+    "name": "Gagan Aqua Industries",
+    "short_name": "Gagan Aqua",
+    "description": "Leading manufacturer of packaged drinking water bottles",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0077B6",
+    "icons": [
+        {
+            "src": "images/favicon.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "images/favicon.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        }
+    ]
+}
