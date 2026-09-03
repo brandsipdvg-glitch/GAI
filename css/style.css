@@ -188,14 +188,14 @@ ul {
 }
 
 .logo-img {
-    height: 55px;
+    height: 75px;
     width: auto;
     border-radius: var(--radius-sm);
     transition: var(--transition-normal);
 }
 
 .navbar.scrolled .logo-img {
-    height: 50px;
+    height: 65px;
 }
 
 .logo-text {
@@ -1447,7 +1447,7 @@ ul {
 }
 
 .footer-logo-img {
-    height: 70px;
+    height: 110px;
     width: auto;
     border-radius: var(--radius-md);
 }
