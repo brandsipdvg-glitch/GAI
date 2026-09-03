@@ -24,7 +24,6 @@ function initGallery() {
         { id: 3, src: 'images/products/1l-bottle.png', title: '1L Water Bottle', category: 'bottles' },
         { id: 4, src: 'images/products/2l-bottle.png', title: '2L Water Bottle', category: 'bottles' },
         { id: 5, src: 'images/products/20l-can.png', title: '20L Water Can', category: 'cans' },
-        { id: 6, src: 'images/products/custom-bottle.png', title: 'Custom Branded Bottle', category: 'custom' },
         // Add more images as needed
     ];
     

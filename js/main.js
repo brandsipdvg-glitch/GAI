@@ -607,12 +607,6 @@ function showProductQuickView(productId) {
             capacity: '20 LITRE',
             description: 'Commercial-grade water dispenser bottle for offices and institutions.',
             image: 'images/products/20l-can.png'
-        },
-        'custom': {
-            name: 'Customized Branded Water Bottles',
-            capacity: 'ANY SIZE',
-            description: 'Your brand, our quality. Custom labels and packaging.',
-            image: 'images/products/custom-bottle.png'
         }
     };
     
